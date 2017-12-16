@@ -1,7 +1,7 @@
 
 var playlist = new Object();
 var playlist = {
-  name: 'song title'  
+  name: 'song title'
 }
 
 Object.assign(artist, song)
