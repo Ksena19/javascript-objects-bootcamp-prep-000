@@ -1,5 +1,5 @@
 
-var playlist = {};
+var playlist = new Object();
 var playlist = {
   name: 'song title'
 }
